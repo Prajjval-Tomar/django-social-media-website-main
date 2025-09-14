@@ -1,3 +1,1 @@
-# django-social-media-website-main
-
-this is my first update 
+Link to the template files: https://github.com/tomitokko/django-social-media-template
